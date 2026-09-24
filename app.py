@@ -81,7 +81,7 @@ if (selected == 'Heart Disease prediction'):
     with col3:
         ca=st.text_input('ca value')
     with col1:
-        thl=st.text_input('thal value')
+        thal=st.text_input('thal value')
 
     #code for pred
         heart_diagnosis=''
